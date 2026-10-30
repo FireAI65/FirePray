@@ -1,0 +1,6 @@
+{
+  "name": "Doa Quran & Hadist",
+  "description": "Kumpulan doa harian dari Al-Qur'an dan Hadist dengan audio murottal/suara, pencarian cepat, bookmark, dan rekomendasi doa berbasis Firebase AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
